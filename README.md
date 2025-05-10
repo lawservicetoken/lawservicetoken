@@ -1,16 +1,19 @@
-## Hi there 👋
+# LAW SERVICE TOKEN (LST)
 
-<!--
-**lawservicetoken/lawservicetoken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+LST is a blockchain-based reverse auction legal service platform.  
+This repository includes the official smart contracts, whitepaper, and assets of LAW SERVICE TOKEN.
 
-Here are some ideas to get you started:
+## Features
+- Reverse auction system for legal and expert services
+- ERC-20 token-based payment and reward
+- Smart contract-powered dispute handling
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Documents
+- [Whitepaper (EN)](https://ls-token.com/downfile/lst_whitepaper_en.pdf)
+
+## Website
+- https://ls-token.com
+
+## Contact
+- Email: lst@ls-token.com
+- Twitter: https://x.com/lawservice_tokn
