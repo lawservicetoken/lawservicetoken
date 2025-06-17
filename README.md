@@ -9,7 +9,7 @@ This repository includes the official smart contracts, whitepaper, and assets of
 - Smart contract-powered dispute handling
 
 ## Documents
-- [Whitepaper (EN)](https://ls-token.com/downfile/lst_whitepaper_en.pdf)
+- [Whitepaper (EN)](https://ls-token.com/downfile/lst_whitepaper.pdf)
 
 ## Website
 - https://ls-token.com
