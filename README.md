@@ -15,5 +15,8 @@ This repository includes the official smart contracts, whitepaper, and assets of
 - https://ls-token.com
 
 ## Contact
-- Email: lst@ls-token.com
-- Twitter: https://x.com/lawservice_tokn
+- Email : lst@ls-token.com
+- Telegram : https://t.me/lawservicetoken
+- Telegram Channel: https://t.me/lst_comm
+- Twitter : https://x.com/lawservice_tokn
+- Instagram : https://instagram.com/lawservicetoken
